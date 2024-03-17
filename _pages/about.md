@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.liverpool.ac.uk/'>University of Liverpool</a>. Address. Contacts. Moto. Etc.
 
