@@ -2,7 +2,7 @@
 layout: page
 title: Explainability for Large Language Models
 description: a project with a background image
-img: assets/img/explain_1.jpg
+img: assets/img/explain_1.jpeg
 importance: 1
 category: work
 related_publications: true
@@ -15,6 +15,6 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: assets/img/explain_1.jpg
+    img: assets/img/explain_1.jpeg
     ---
 
