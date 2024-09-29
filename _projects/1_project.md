@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Explainability for Large Language Models
-description: a project with a background image
+description: 
 img: assets/img/explain_1.jpeg
 importance: 1
 category: work
