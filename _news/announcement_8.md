@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This Year we will be virtually hosting NLP for Social Good Symposium on 25th and 26th June. You can check the website https://nlp4social.github.io/NSG/.
+This Year we will be virtually hosting NLP for Social Good Symposium on 25th and 26th June. You can check the website [here] (https://nlp4social.github.io/NSG/) .
