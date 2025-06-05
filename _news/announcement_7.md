@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Our paper titled "Adaptive Retrieval-Augmented Generation for Conversational Systems" got accepted in NAACL (Findings) 2025
+Our paper titled "Adaptive Retrieval-Augmented Generation for Conversational Systems" got accepted in NAACL (Findings) 2025.
