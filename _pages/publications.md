@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
-<!--<img src="/assets/img/1.jpg" alt="Publications Banner" style="width:100%; max-width:600px;"/>-->
+<!--<img src="/assets/img/logo.jpg" alt="Publications Banner" style="width:100px; height:100px;"/>-->
 
 
 {% bibliography %}
