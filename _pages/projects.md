@@ -11,7 +11,7 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-  <img src="/assets/images/logo.png" alt="Publications Banner" style="width:100px;height:100px;"/>
+  <img src="/assets/img/logo.png" alt="Socially Responsible Intelligent System" style="width:100px;height:100px;"/>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
