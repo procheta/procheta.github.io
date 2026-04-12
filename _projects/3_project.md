@@ -5,7 +5,7 @@ description:
 img: assets/img/TREC-Newlogo-recolor.png
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 
