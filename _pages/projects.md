@@ -11,7 +11,12 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-  <img src="/assets/img/logo.png" alt="Socially Responsible Intelligent System" style="width:100px;height:100px;"/>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/W8UoKz3DZgw"
+title="YouTube video"
+frameborder="0"
+allowfullscreen>
+</iframe>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
