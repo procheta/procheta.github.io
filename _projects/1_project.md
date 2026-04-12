@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Explainability for Large Language Models
+title: Explainable AI
 description: 
 img: assets/img/explain_1.jpeg
 importance: 1
