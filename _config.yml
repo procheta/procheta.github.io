@@ -163,11 +163,11 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  News:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /News/:path/
   projects:
     output: true
     permalink: /projects/:path/
