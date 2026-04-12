@@ -11,12 +11,10 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/W8UoKz3DZgw"
-title="YouTube video"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<video width="640" controls>
+  <source src="short.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
