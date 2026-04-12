@@ -11,10 +11,12 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
+<div align="center">
 <video width="640" controls>
   <source src="/assets/video/short.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
