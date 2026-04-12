@@ -9,7 +9,7 @@
         {% endif %}
         <div class="{% if project.img %}col-md-6{% else %}col-md-12{% endif %}">
           <div class="card-body">
-            <h6 {{ project.title }}</h6>
+            <h6 style="text-align: center;"> {{ project.title }}</h6>
             <p class="card-text">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
