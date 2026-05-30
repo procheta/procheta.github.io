@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Information Retrieval
+title: ""
 description: 
-img: assets/img/TREC-Newlogo-recolor.png
+img: assets/img/Human_centered_logo.png
 importance: 2
 category: work
 related_publications: true
