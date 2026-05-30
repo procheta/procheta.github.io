@@ -8,5 +8,5 @@ category: work
 related_publications: true
 ---
 
-{% bibliography %}
+{% exAI %}
 
