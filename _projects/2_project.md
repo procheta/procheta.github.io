@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: ""
 description: 
 img: assets/img/AI_Impact_logo.png
 importance: 2
