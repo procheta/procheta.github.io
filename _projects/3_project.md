@@ -5,7 +5,7 @@ description:
 img: assets/img/Human_centered_logo.png
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 # Human Centered Intelligent Systems
