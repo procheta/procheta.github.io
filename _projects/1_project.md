@@ -8,8 +8,6 @@ category: work
 related_publications: false
 ---
 
-Explainable AI
-
 Our research focuses on understanding why AI systems make particular decisions and how these decisions can be communicated effectively to users. We develop methods for interpreting retrieval models, foundation models, and large language models, with the goal of improving transparency, trust, and accountability.
 
 Representative Publications
