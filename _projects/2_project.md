@@ -5,14 +5,21 @@ description:
 img: assets/img/AI_Impact_logo.png
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
+**Goal:** Applying AI responsibly in domains where decisions affect people directly.
 
+**Research Questions**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+How can AI support evidence-based decisions?
+
+How can domain-specific AI remain accountable?
+
+**Related Publications**
+
+MedFact: A Large-scale Chinese Dataset for Evidence-based Medical Fact-checking of LLM Responses (EMNLP 2025)
+
+Automated Attribute Extraction from Legal Documents Using LLMs (AI & Law Journal 2024)
+
+FinBPM: Financial Investor Behavior Perception Model (EACL 2024)
