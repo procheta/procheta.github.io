@@ -7,6 +7,8 @@ importance: 2
 category: work
 related_publications: false
 ---
+# AI for Social Impact
+
 
 **Goal:** Applying AI responsibly in domains where decisions affect people directly.
 
