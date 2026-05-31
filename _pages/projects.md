@@ -15,16 +15,15 @@ horizontal: false
   max-width: 950px;
   margin: 0 auto 30px auto;
   padding: 20px 30px;
-  border-left: 5px solid #4A90E2;
   background-color: rgba(74,144,226,0.05);
   border-radius: 8px;
 ">
 
-  <h3 style="margin-top:0;">Research Vision</h3>
+  <h3 style="margin-top:0;">Vision</h3>
 
   <p style="font-size:1.15rem; line-height:1.8;">
-    We develop <strong>Socially Responsible Intelligent Systems</strong> that are
-    transparent, trustworthy, and human-centered. Our research spans
+    The goal of my research group <strong>Socially Responsible Intelligent Systems</strong> is to develop
+    transparent, trustworthy, and human-centered AI models. Our research spans
     explainable AI, trustworthy foundation models, human-centered intelligent systems,
     and AI for social impact, with the goal of ensuring that advances in AI lead to
     meaningful benefits for individuals, communities, and society.
