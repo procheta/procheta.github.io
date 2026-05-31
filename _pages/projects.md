@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Research Group: Socially Responsible Intelligent Systems Lab"
+title: "Research Group: SRIS Lab"
 permalink: /projects/
-description: 
+description: Socially Responsible Intelligent Systems Lab
 nav: false
 nav_order: 3
 display_categories: [Research Theme]
