@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Group: Socially Responsible Intelligent Systems Lab
+title: "Research Group: Socially Responsible Intelligent Systems Lab"
 permalink: /projects/
 description: 
 nav: false
