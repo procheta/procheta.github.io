@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Research
-display_title: false
+title: Research Group: Socially Responsible Intelligent Systems Lab
 permalink: /projects/
 description: 
 nav: false
