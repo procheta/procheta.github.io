@@ -4,7 +4,7 @@ title: Research
 display_title: false
 permalink: /projects/
 description: 
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Research Theme]
 horizontal: false
