@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hobbies/
-title: Hobbies
+title: Personal Pursuits
 description: 
 nav: True
 nav_order: 5
