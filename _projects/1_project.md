@@ -4,7 +4,7 @@ title: Explainable AI
 description: 
 img: assets/img/xAI_logo.png
 importance: 1
-category: work
+category: Research Theme
 related_publications: false
 ---
 
