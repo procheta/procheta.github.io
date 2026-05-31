@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Group : Socially Responsible Intelligent Systems
+title: Research Group Socially Responsible Intelligent Systems
 permalink: /projects/
 description: 
 nav: true
