@@ -4,7 +4,7 @@ title: ""
 description: 
 img: assets/img/AI_Impact_logo.png
 importance: 2
-category: work
+category: Research Theme
 related_publications: false
 ---
 # AI for Social Impact
