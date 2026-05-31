@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: "Research Group: Socially Responsible Intelligent Systems Lab"
 permalink: /projects/
 description: 
